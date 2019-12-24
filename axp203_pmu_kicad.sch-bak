@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 4750 1900 2400 3700
+S 6950 3250 2400 3700
 U 5E09CC0F
 F0 "AXP203 PMU" 50
 F1 "axp203_pmu.sch" 50
