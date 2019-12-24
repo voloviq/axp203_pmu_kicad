@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name x_powers)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/PMU_Units/X_Powers/x_powers.lib)(options "")(descr ""))
+)
