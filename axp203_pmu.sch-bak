@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L x_powers:AXP203 U?
+L x_powers:AXP203 U1
 U 1 1 5E09CC8E
 P 7900 5000
-F 0 "U?" H 7900 7565 50  0000 C CNN
+F 0 "U1" H 7900 7565 50  0000 C CNN
 F 1 "AXP203" H 7900 7474 50  0000 C CNN
-F 2 "" H 3550 7200 50  0001 C CNN
+F 2 "X_Powers:AXP203_QFN48" H 3550 7200 50  0001 C CNN
 F 3 "/home/mw/kicad_library/Schematic/PMU_Units/X_Powers/Components_Documentation/AXP203_Datasheet_V1.0.pdf" H 3550 7200 50  0001 C CNN
 	1    7900 5000
 	1    0    0    -1  
