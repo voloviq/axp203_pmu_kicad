@@ -1,4 +1,8 @@
 (sym_lib_table
   (lib (name x_powers)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/PMU_Units/X_Powers/x_powers.lib)(options "")(descr ""))
-  (lib (name axp203_pmu_kicad-rescue)(type Legacy)(uri ${KIPRJMOD}/axp203_pmu_kicad-rescue.lib)(options "")(descr ""))
+  (lib (name Capacitors_Smd0603)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Capacitors/Smd_0603/Capacitors_Smd0603.lib)(options "")(descr ""))
+  (lib (name Resistors_Smd0603)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Resistors/Smd_0603/Resistors_Smd0603.lib)(options "")(descr ""))
+  (lib (name Inductors)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Inductors/Inductors.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Power_Signs/power.lib)(options "")(descr ""))
+  (lib (name Diodes)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Diodes/Diodes.lib)(options "")(descr ""))
 )
