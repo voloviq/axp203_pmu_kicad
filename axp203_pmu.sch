@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 2 2
 Title "AXP203 PMU Internal Connections"
-Date "2019-12-24"
+Date "2020-05-14"
 Rev "V1.0"
 Comp "Embedded System Labs"
 Comment1 ""
